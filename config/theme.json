@@ -16,7 +16,7 @@
             "action": "#252525"
         },
         "background": {
-            "main": "#050505",
+            "main": "#F8F9FA",
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
             "logoImage": "https://cloud.anewvision.fr/1324791924540047498/bellemethodlogoupdated-min.png",
@@ -44,6 +44,9 @@
         "settings": {
             "defaultListView": false,
             "defaultLanguage": "fr"
+        },
+        "fixed": {
+            "titleBar": "#F8F9FA"
         }
     }
 }
